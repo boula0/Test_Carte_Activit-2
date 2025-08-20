@@ -1,0 +1,1 @@
+window.__manifest = {"layers": [{"id": "SIRE_CONSEIL_SECTEUR_DACTIVITES_shp_60c65e1c_7541_443b_9023_d3beeb6b58d4", "key": "sire_conseil_secteur_dactivites-shp", "name": "SIRE_CONSEIL_SECTEUR_DACTIVITES.shp", "type": "geojson", "path": "data/sire_conseil_secteur_dactivites-shp.geojson", "geometryType": "MultiPolygon", "bounds": [242504.8, 6189663.5, 842159.5, 6956109.1]}]};
